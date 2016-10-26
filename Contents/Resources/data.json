@@ -1,6 +1,6 @@
 [
 {type: "rss", url: "https://archive.org/services/collection-rss.php?collection=computersandtechvideos", thumb: ""},
-{type: "rss", url: "http://www.vesti.ru/vesti.rss", thumb: ""},
+{type: "rss", url: "http://feeds.feedburner.com/vesti/QDhH", thumb: ""},
 {type: "youtube", url: "https://www.youtube.com/playlist?list=PLXnIohISHNIvF6Z-my2aqP6AKZfaK2Bik", thumb: ""},
 {type: "youtube", url: "http://bit.ly/2eFAXyU", thumb: ""},
 {type: "youtube", url: "http://bit.ly/2dJBYUZ", thumb: ""},
