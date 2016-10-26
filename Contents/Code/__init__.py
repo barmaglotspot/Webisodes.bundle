@@ -8,7 +8,7 @@ YOUTUBE_ICON = 'youtube-icon.png'
 VIMEO_ICON = 'vimeo-icon.png'
 DAILYMOTION_ICON = 'dailymotion-icon.png'
 
-SHOW_DATA = 'https://raw.githubusercontent.com/barmaglotspot/Webisodes.bundle/master/Contents/Resources/data.json'
+SHOW_DATA = 'data.json'
 NAMESPACES = {'feedburner': 'http://rssnamespace.org/feedburner/ext/1.0'}
 NAMESPACES2 = {'media': 'http://search.yahoo.com/mrss/'}
 NAMESPACE_SMIL = {'smil': 'http://www.w3.org/2005/SMIL21/Language'}
