@@ -1,4 +1,4 @@
-TITLE    = torrtilla''
+TITLE    = 'torrtilla'
 PREFIX   = '/video/torrtilla'
 ART      = 'art-default.jpg'
 ICON     = 'icon-default.png'
