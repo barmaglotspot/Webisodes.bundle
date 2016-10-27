@@ -1,9 +1,9 @@
 [
 {type: "rss", url: "https://archive.org/services/collection-rss.php?collection=computersandtechvideos", thumb: ""},
-{type: "rss", url: "http://feeds.feedburner.com/vesti/QDhH", thumb: "https://raw.githubusercontent.com/barmaglotspot/torrtilla.bundle/master/Contents/Resources/6gyzg71nJWI.jpg"},
+{type: "rss", url: "http://feeds.feedburner.com/vesti/QDhH", thumb: "6gyzg71nJWI.jpg"},
 {type: "rss", url: "http://feeds.feedburner.com/ren/rbHs", thumb: ""},
 {type: "youtube", url: "https://www.youtube.com/playlist?list=PL2Z9g0yqUoKqSBfrC4Qx4dY4E3oQ9d5LH", thumb: ""},
-{type: "youtube", url: "http://bit.ly/2eUjaTU", thumb: "https://raw.githubusercontent.com/barmaglotspot/torrtilla.bundle/master/Contents/Resources/youtube-icon.png"},
+{type: "youtube", url: "http://bit.ly/2eUjaTU", thumb: "youtube-icon.png"},
 {type: "youtube", url: "http://bit.ly/2eFAXyU", thumb: ""},
 {type: "youtube", url: "http://bit.ly/2dJBYUZ", thumb: ""},
 {type: "youtube", url: "http://www.youtube.com/playlist?list=PLl4T6p7km9dbx0o8J35KjWAwaiEo5tV7G", thumb: ""},
